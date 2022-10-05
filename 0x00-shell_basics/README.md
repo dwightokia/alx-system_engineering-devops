@@ -5,3 +5,4 @@ The 3-listfiles script displays the current content in it's long format.
 The 4-listmorefiles script displays current working directory content including hidden files.
 The 5-listfilesdigitsonly displays the current directory content in long format numerically.
 The 6-firstdirectory script creates a directory named my_first_directory in the tmp directory.
+The 7-movethatfile script moves the script betty from tmp to my_first_directory.
